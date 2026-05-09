@@ -1,0 +1,11 @@
+# Exclude ZK-Rollup project from Django context
+zkrollup/
+
+# Standard excludes
+__pycache__/
+*.py[cod]
+*$py.class
+.git
+.env
+db.sqlite3
+.DS_Store
